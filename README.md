@@ -17,7 +17,7 @@ This repository contains a simulation of a multiprogramming operating system imp
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/Kartik-Katkar/Multiprogramming-Operating-System.git
+    https://github.com/SreyasK123/Operating-System.git
     cd Multiprogramming-Operating-System
     ```
 
